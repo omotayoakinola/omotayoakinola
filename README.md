@@ -8,8 +8,8 @@ I work at the intersection of governance, risk, and compliance —
 applying frameworks to real organisational problems through
 case studies, technical labs, and active consulting practice.
 
-I co-founded **Cyveillant Advisory**, a student-led GRC consulting
-firm where a team of eight delivers GRC-informed solutions to real
+I co-founded **Cyveillant Advisory**, GRC consulting
+firm where a team of consutants delivers GRC-informed solutions to real
 organisational challenges. My work spans risk assessment, compliance
 analysis, and security governance — with a focus on translating
 technical findings into decisions that stakeholders can act on.
@@ -54,7 +54,6 @@ into GRC work.
 ---
 
 *Open to GRC Analyst, compliance, and risk advisory
-opportunities — particularly within African and emerging market
-regulatory contexts.*
-opportunities — particularly within African and emerging market
-regulatory contexts.*
+opportunities, particularly within African and emerging market
+regulatory contexts.
+

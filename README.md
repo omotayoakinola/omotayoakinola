@@ -53,6 +53,8 @@ into GRC work.
 
 ---
 
-*Open to entry-level GRC Analyst, compliance, and risk advisory
+*Open to GRC Analyst, compliance, and risk advisory
+opportunities — particularly within African and emerging market
+regulatory contexts.*
 opportunities — particularly within African and emerging market
 regulatory contexts.*

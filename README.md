@@ -4,14 +4,14 @@ GRC Engineering Trainee | Lagos, Nigeria
 
 ---
 
-I work at the intersection of governance, risk, and compliance —
+I work at the intersection of governance, risk, and compliance, 
 applying frameworks to real organisational problems through
 case studies, technical labs, and active consulting practice.
 
 I co-founded **Cyveillant Advisory**, GRC consulting
 firm where a team of consutants delivers GRC-informed solutions to real
 organisational challenges. My work spans risk assessment, compliance
-analysis, and security governance — with a focus on translating
+analysis, and security governance, with a focus on translating
 technical findings into decisions that stakeholders can act on.
 
 My background in History and International Studies, and a prior

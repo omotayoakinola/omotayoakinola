@@ -29,20 +29,19 @@ I translate controls across multiple regulatory frameworks into decisions that s
 ## Frameworks & Standards
 
 | Domain | Frameworks |
-|--------|------------|
-| Governance | ISO 27001 · COBIT · NDPA 2023 · CBN Cybersecurity Framework |
+|---|---|
+| Governance | ISO 27001 · NDPA 2023 · CBN Cybersecurity Framework · NIST CSF 2.0 |
 | Risk | ISO 31000 · NIST RMF · Quantitative Risk Analysis |
-| Compliance | GDPR · HIPAA · PCI DSS · NIST CSF 2.0 |
-
----
+| Compliance | GDPR · HIPAA · PCI-DSS · |
 
 ## Portfolio
 
 | Repository | What It Demonstrates |
-|------------|----------------------|
-| [risk-assessment-labs](https://github.com/omotayoakinola/risk-assessment-labs) | Quantitative risk analysis, ALE calculations, cost-benefit assessments |
-| [compliance-scenarios](https://github.com/omotayoakinola/compliance-scenarios) | Applied framework work — GDPR, NDPA 2023, HIPAA, PCI DSS |
-| [grc-home-lab](https://github.com/omotayoakinola/grc-home-lab) | Technical GRC validation and compliance monitoring |
+|---|---|
+| [verdant-pay-grc-assessment](https://github.com/omotayoakinola/verdant-pay-grc-assessment) | End-to-end cyber risk assessment under CBN, NDPA 2023, and PCI-DSS, covering stakeholder engagement, control mapping, threat identification, inherent and residual risk rating, and treatment planning across nineteen identified risks |
+| [risk-assessment-labs](https://github.com/omotayoakinola/risk-assessment-labs) | Quantitative risk analysis, ALE calculations, cost-benefit assessments, and executive risk communication for a financial services scenario |
+| [compliance-scenarios](https://github.com/omotayoakinola/compliance-scenarios) | Applied framework work across GDPR, NDPA 2023, HIPAA, PCI-DSS, FCPA, and SOX through multi-jurisdiction compliance case studies |
+| [grc-home-lab](https://github.com/omotayoakinola/grc-home-lab) | Technical GRC validation and compliance monitoring through hands-on security control deployment and compliance mapping |
 
 ---
 

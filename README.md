@@ -1,6 +1,8 @@
-I am Omotayo Akinola, a GRC Analyst designing proactive, resilient security postures, while building hands-on technical depth toward GRC Engineering.
+I am Omotayo Akinola, a GRC Engineer in training at the International Cybersecurity and Digital Forensics Academy, building hands-on competency in cyber risk assessment, regulatory compliance, and security governance.
 
-I move organisations away from reactive, checkbox-driven compliance toward security programs built on predictive risk management, continuous control monitoring, and governance that speaks the language of business. My work spans risk assessment, compliance analysis, and security governance, with a focus on translating controls across multiple regulatory frameworks into decisions that stakeholders can act on with confidence.
+My work focuses on designing proactive, resilient security postures that move organisations away from reactive checkbox compliance toward programs built on evidence-based risk management, continuous control monitoring, and governance that speaks the language of business.
+
+I translate controls across multiple regulatory frameworks into decisions that stakeholders can act on with confidence.
 
 ---
 

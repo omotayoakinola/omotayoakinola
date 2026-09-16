@@ -20,7 +20,7 @@ I translate controls across multiple regulatory frameworks into decisions that s
   </a>
 </p>
 
-- **ISO/IEC 27001:2022 Lead Implementer** — ICDFA, Certificate ID: ICDFA-2026-7829-2EBFEF79-78
+- **ISO/IEC 27001:2022 Lead Implementer Trained** — ICDFA, Certificate ID: ICDFA-2026-7829-2EBFEF79-78
 - **Cisco Cybersecurity Essentials** — Cisco Networking Academy, completed Dec 2025
 
 ---

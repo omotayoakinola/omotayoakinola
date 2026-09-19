@@ -38,7 +38,7 @@ I translate controls across multiple regulatory frameworks into decisions that s
 
 | Repository | What It Demonstrates |
 |---|---|
-| [verdant-pay-grc-assessment](https://github.com/omotayoakinola/verdant-pay-grc-assessment) | End-to-end cyber risk assessment under CBN, NDPA 2023, and PCI-DSS, covering stakeholder engagement, control mapping, threat identification, inherent and residual risk rating, and treatment planning across nineteen identified risks |
+| [paraclete-grc-assessment](https://github.com/omotayoakinola/verdant-pay-grc-assessment) | End-to-end cyber risk assessment under CBN, NDPA 2023, and PCI-DSS, covering stakeholder engagement, control mapping, threat identification, inherent and residual risk rating, and treatment planning across nineteen identified risks |
 | [risk-assessment-labs](https://github.com/omotayoakinola/risk-assessment-labs) | Quantitative risk analysis, ALE calculations, cost-benefit assessments, and executive risk communication for a financial services scenario |
 | [compliance-scenarios](https://github.com/omotayoakinola/compliance-scenarios) | Applied framework work across GDPR, NDPA 2023, HIPAA, PCI-DSS, FCPA, and SOX through multi-jurisdiction compliance case studies |
 | [grc-home-lab](https://github.com/omotayoakinola/grc-home-lab) | Technical GRC validation and compliance monitoring through hands-on security control deployment and compliance mapping |
